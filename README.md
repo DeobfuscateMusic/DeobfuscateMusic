@@ -8,8 +8,8 @@
 ![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![DAW](https://img.shields.io/badge/DAW-Ableton%20Live%2012%2B-000000?style=flat-square&logo=abletonlive&logoColor=white)
 
-- [VINC3 (v1.0.0)](https://github.com/DeobfuscateMusic/VINC3/releases/tag/VINC3_1.0.0) : Spectral Analysis & DSP Metering. macOS Universal. Standalone.
+- [VINC3 (v1.0.0)](https://github.com/DeobfuscateMusic/VINC3/releases/tag/VINC3_1.0.0) : Spectral Analysis & DSP Metering. Standalone.
 
-- [Dub Stabs (v1.0.0)](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/tag/Dub_Stabs_1.0.0) : Synthesizers for Dub Techno Chords & Stabs. macOS Universal. Standalone.
+- [Dub Stabs (v1.0.0)](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/tag/Dub_Stabs_1.0.0) : Synthesizers for Dub Techno Chords & Stabs. Standalone.
 
-- [Dub Chords (v1.0.1)](https://github.com/DeobfuscateMusic/Dub-Chords/releases/tag/DubChords1.0.1) : Synthesizer for Dub Techno Chords & Stabs. macOS Universal & Ableton 12+. Standalone, Audio Unit (AU) & VST3
+- [Dub Chords (v1.0.1)](https://github.com/DeobfuscateMusic/Dub-Chords/releases/tag/DubChords1.0.1) : Synthesizer for Dub Techno Chords & Stabs. Standalone, Audio Unit (AU) & VST3
