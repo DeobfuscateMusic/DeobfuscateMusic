@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center"><img width="374" height="158" alt="Deofuscate_Logo_Transparent_S" src="https://github.com/user-attachments/assets/61300f1d-4cdb-444c-ad82-5968c3eceb05" /></p>
 
-<!--
-**DeobfuscateMusic/DeobfuscateMusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Releases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
+![DAW](https://img.shields.io/badge/DAW-Ableton%20Live%2012%2B-000000?style=flat-square&logo=abletonlive&logoColor=white)
+
+- [VINC3 (v1.0.0)](https://github.com/DeobfuscateMusic/VINC3/releases/tag/VINC3_1.0.0) : Spectral Analysis & DSP Metering. macOS Universal. Standalone.
+
+- [Dub Stabs (v1.0.0)](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/tag/Dub_Stabs_1.0.0) : Synthesizers for Dub Techno Chords & Stabs. macOS Universal. Standalone.
+
+- [Dub Chords (v1.0.1)](https://github.com/DeobfuscateMusic/Dub-Chords/releases/tag/DubChords1.0.1) : Synthesizer for Dub Techno Chords & Stabs. macOS Universal & Ableton 12+. Standalone, Audio Unit (AU) & VST3
