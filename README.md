@@ -2,7 +2,7 @@
 
 ---
 
-## Releases
+## 𝐑𝐞𝐥𝐞𝐚𝐬𝐞𝐬
 
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
