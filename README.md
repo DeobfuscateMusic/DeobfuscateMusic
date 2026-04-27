@@ -1,7 +1,3 @@
-<p align="center"><img width="374" height="158" alt="Deofuscate_Logo_Transparent_S" src="https://github.com/user-attachments/assets/61300f1d-4cdb-444c-ad82-5968c3eceb05" /></p>
-
----
-
 ## 𝐑𝐞𝐥𝐞𝐚𝐬𝐞𝐬
 
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
